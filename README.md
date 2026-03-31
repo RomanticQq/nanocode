@@ -2,6 +2,9 @@
 
 Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
+## update
+2026.3.31-支持openai接口
+
 Built using Claude Code, then used to build itself.
 
 ![screenshot](screenshot.png)
